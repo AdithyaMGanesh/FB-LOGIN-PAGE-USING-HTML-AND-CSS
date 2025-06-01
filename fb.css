@@ -1,0 +1,176 @@
+.header{
+    width: 100%;
+    height: 90px;
+    background: #3B5997;
+    padding-left: 200px;
+    padding-top: 25px;
+}
+body{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.logo{
+    font-family: verdana;
+    color: #fff;
+    font-size: 60px;
+    text-decoration: none;
+    font-weight: bolder;
+}
+.leftside{
+    width: 50%;
+    height: 90px;
+    float:left
+}
+.rightside{
+    width: 50%;
+    height: 90px;
+    float:left
+}
+.login{
+    color: #fff;
+    font-size: 12px;
+}
+.btn{
+    background-color: #4268b3;
+    border-color: #29487e;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor:pointer
+}
+.btn:hover{
+    background: red;
+}
+.forg{
+    color:rgb(231, 227, 221);
+    text-decoration: none;
+    font-size: 12px;
+}
+.mainbody{
+    background:linear-gradient(#ffffff, #a0b0ca);
+    width: 100%;
+    height: 550px;
+}
+.leftsection{
+    width: 50%;
+    float: left;
+
+}
+.rightsection{
+    width: 50%;
+    float: left;
+    font-family: arial;
+    color: #343434;
+
+}
+.para{
+    color:#0c1e46;
+    font-size: 25px;
+    font-family: arial;
+    margin-top: 15px;
+    margin-left: 35px;
+    font-weight: bold;
+}
+.im{
+    width: 615px;
+}
+.newf{
+    width:200px;
+    height: 30px;
+    border-radius: 5px;
+    border-color: gray;
+    float:left;
+}
+.new1{
+    width:200px;
+    height: 30px;
+    border-radius: 5px;
+    border-color: gray;
+    float:left;
+}
+.new2{
+    width:412px;
+    height: 30px;
+    border-radius: 5px;
+    float:left;
+    border-color: gray;
+    margin-top: 5px;
+}
+.birth{
+    margin-top: 100px;
+    font-weight: bold;
+}
+.new3{
+    height:25px;
+    width: 40px
+}
+.new4{
+    margin-left: 20px;
+    height:25px;
+    width: 50px;
+}
+.new5{
+    margin-left: 20px;
+    height:25px;
+    width: 50px;
+}
+.circle{
+    width: 20px; /* Adjust size */
+    height: 20px;
+    background-color: #737578; /* Light gray background */
+    border-radius: 50%; /* Make it a circle */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #dcdcdc; /* Optional border for styling */
+    font-family: Arial, sans-serif;
+    font-size: 16px; /* Text size */
+    color: #a0b0ca; /* Text color */
+    cursor: pointer; /* Pointer cursor */
+    float:right;
+    margin-right: 550px;
+}
+.circle1{
+    width: 20px; /* Adjust size */
+    height: 20px;
+    background-color: #737578; /* Light gray background */
+    border-radius: 50%; /* Make it a circle */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #dcdcdc; /* Optional border for styling */
+    font-family: Arial, sans-serif;
+    font-size: 16px; /* Text size */
+    color: #a0b0ca; /* Text color */
+    cursor: pointer; /* Pointer cursor */
+    float:right;
+    margin-right: 495px;
+}
+.ref{
+    color:rgb(72, 72, 181);
+}
+.btn1{
+    background: green;
+    color: #fff;
+    width:150px;
+    height: 30px;
+    border-radius: 5px;
+}
+.para1{
+    color: #5d5c5c;
+    font-size: 15px;
+    margin-left: 5px;
+}
+.footer{
+    width:100%;
+    height:200px;
+    margin:0;
+    float: :left;
+}
+.para3{
+    font-size: 10px;
+    padding-top:30px;
+    color:gray;
+    float: left;
+    margin:0;
+    margin-top:10px;
+}
